@@ -1,6 +1,16 @@
-headshot {
+.headshot {
     width: 15%;
     height: 15%;
     /* Below makes the image round */
     border-radius:50%;
+}
+
+.p5game {
+    width: 75%;
+    height: 500px;
+}
+
+td {
+    border: 1px solid;
+    text-align: center;
 }
